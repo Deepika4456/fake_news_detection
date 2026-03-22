@@ -14,7 +14,7 @@ True.csv → Contains real news articles
 🧠 NLP (NLTK, TF-IDF)
 📈 Matplotlib, Seaborn
 
-🔍 Methodology
+## 🔍 Methodology
 1️⃣ Data Collection
 Loaded Fake and Real datasets
 Combined and shuffled data
@@ -47,7 +47,7 @@ Recall	High
    pip install -r requirements.txt
 2. Run notebook.ipynb
 
-🧪 Example Prediction
+## 🧪 Example Prediction
 
 Input:
 
@@ -62,7 +62,7 @@ Real News
 <img width="1016" height="346" alt="Screenshot 2026-03-22 203954" src="https://github.com/user-attachments/assets/312cfd45-f17f-4d9b-88f5-49a0d3f28ee5" />
 <img width="871" height="212" alt="Screenshot 2026-03-22 204003" src="https://github.com/user-attachments/assets/83c9caaf-9c5d-4a8f-84d0-a3a7ae681c11" />
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 🔹 Implement Deep Learning models (LSTM, BERT)
 🔹 Deploy as a web app using Streamlit
 🔹 Improve accuracy with advanced NLP techniques
