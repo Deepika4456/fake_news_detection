@@ -4,8 +4,8 @@
 This project detects whether a news article is Fake or Real using Machine Learning.
 
 ## 📂 Dataset
-- "C:\Users\ganes\Downloads\Fake.csv.zip"
-- "C:\Users\ganes\Downloads\True.csv.zip"
+- Fake.csv
+- True.csv
 
 ## ⚙️ Technologies Used
 - Python
