@@ -25,10 +25,10 @@ Matplotlib, Seaborn
 - Logistic Regression
 
 ##  Results
-Metric	Score
-Accuracy	~95%
-Precision	High
-Recall	High
+-Metric	Score
+-Accuracy	~95%
+-Precision	High
+-Recall	High
 
 ##  Example Prediction
 
