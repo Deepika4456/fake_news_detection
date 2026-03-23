@@ -15,23 +15,11 @@ True.csv → Contains real news articles
 📈 Matplotlib, Seaborn
 
 ## 🔍 Methodology
-1️⃣ Data Collection
-Loaded Fake and Real datasets
-Combined and shuffled data
-2️⃣ Data Preprocessing
-Converted text to lowercase
-Removed special characters
-Removed stopwords using NLP
-3️⃣ Feature Engineering
-Used TF-IDF Vectorization to convert text → numerical features
-4️⃣ Model Building
-Applied Logistic Regression
-5️⃣ Model Evaluation
-Evaluated using:
-Accuracy
-Precision
-Recall
-F1-score
+1️⃣ Data Collection Loaded Fake and Real datasets Combined and shuffled data
+2️⃣ Data Preprocessing Converted text to lowercase Removed special characters Removed stopwords using NLP
+3️⃣ Feature Engineering Used TF-IDF Vectorization to convert text → numerical features
+4️⃣ Model Building Applied Logistic Regression
+5️⃣ Model Evaluation Evaluated using: Accuracy,Precision,Recall,F1-score
 
 ## 🚀 Model
 - Logistic Regression
